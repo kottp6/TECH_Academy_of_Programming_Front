@@ -26,7 +26,8 @@ Steps to Run Locally
 
 ==> Clone the Repository
 
-git clone https://github.com/your-repo/course-manager.git
+git clone
+git@github.com:kottp6/TECH_Academy_of_Programming_Front.git
 cd course-manager
 
 ==>Install Dependencies
